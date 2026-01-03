@@ -1,0 +1,18 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Family home with courtyard">
+  <rect width="1200" height="800" fill="url(#paint0_linear)" />
+  <rect x="140" y="200" width="920" height="420" rx="32" fill="#F3EEE7" />
+  <rect x="220" y="260" width="260" height="110" rx="20" fill="#E2D8CD" />
+  <rect x="520" y="260" width="260" height="110" rx="20" fill="#E2D8CD" />
+  <rect x="820" y="260" width="260" height="110" rx="20" fill="#E2D8CD" />
+  <rect x="220" y="410" width="260" height="110" rx="20" fill="#E2D8CD" />
+  <rect x="520" y="410" width="260" height="110" rx="20" fill="#E2D8CD" />
+  <rect x="820" y="410" width="260" height="110" rx="20" fill="#E2D8CD" />
+  <rect x="180" y="640" width="840" height="34" rx="17" fill="#E6DDD2" />
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F3FF" />
+      <stop offset="0.5" stop-color="#F2F0F8" />
+      <stop offset="1" stop-color="#E6EFE8" />
+    </linearGradient>
+  </defs>
+</svg>

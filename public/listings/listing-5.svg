@@ -1,0 +1,18 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Spacious residence">
+  <rect width="1200" height="800" fill="url(#paint0_linear)" />
+  <rect x="160" y="200" width="420" height="460" rx="28" fill="#F2ECE5" />
+  <rect x="620" y="140" width="420" height="520" rx="28" fill="#EFE7DF" />
+  <rect x="220" y="270" width="300" height="90" rx="16" fill="#DED3C8" />
+  <rect x="220" y="390" width="300" height="90" rx="16" fill="#DED3C8" />
+  <rect x="220" y="510" width="300" height="90" rx="16" fill="#DED3C8" />
+  <rect x="680" y="230" width="300" height="100" rx="16" fill="#DDD2C7" />
+  <rect x="680" y="360" width="300" height="100" rx="16" fill="#DDD2C7" />
+  <rect x="680" y="490" width="300" height="100" rx="16" fill="#DDD2C7" />
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF7F2" />
+      <stop offset="0.55" stop-color="#F3F0E9" />
+      <stop offset="1" stop-color="#F7ECDD" />
+    </linearGradient>
+  </defs>
+</svg>
